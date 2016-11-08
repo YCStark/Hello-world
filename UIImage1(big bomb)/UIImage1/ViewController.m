@@ -82,7 +82,7 @@ static long step = 0; //记录时钟动画调用次数
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
+
 //#if 0
 //    NSString *path = [[NSBundle mainBundle]resourcePath];
 //    //图片路径
