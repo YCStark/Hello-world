@@ -106,7 +106,6 @@ static long step = 0; //记录时钟动画调用次数
 //    //uiviewcontentmodescaletofill 默认充满整个载体
 //    //uiviewcontentmodescaleAspectFill 拉伸不改变比例，充满最大的一边
 //    //uiviewcontentmodescaleAspectFill 拉伸不改变比例，充满最xiao的一边
-//    //
 //    imageView.contentMode = UIViewContentModeScaleAspectFit;
 //#endif
 //
